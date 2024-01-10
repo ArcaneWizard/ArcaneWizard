@@ -1,4 +1,4 @@
-### 🐼 Hey There
+### 🐼 Hey! Skills:
 
 - **Languages:** C#, JavaScript/TypeScript, Java, C, SQL
 - **Frameworks:** NodeJS, ReactJS, PostgreSQL, AWS, MongoDB, Unity, Bash, 
