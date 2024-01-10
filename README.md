@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 🐼
+Skillset:
+- **Languages:** C#, JavaScript/TypeScript, Java, C, SQL  
+- **Frameworks:** Node.JS, ReactJS, PostgreSQL, AWS, MongoDB, Unity, AWS, Bash, 
+            Postman, Bootstrap, Redux, Git, Pytorch, TensorFlow, Figma
 
 <!--
 **ArcaneWizard/ArcaneWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
